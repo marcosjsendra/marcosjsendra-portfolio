@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+
+.first-section {
+  max-width: 900px;
+  width: 80%;
+  min-width: 300px;
+  padding: 12px;
+}
+
+.link-div > a {
+  margin-right: 16px;
+}
+
+.title-div {
+  line-height: 6px;
+}
+
+.content-level1 {
+  line-height: 24px;
+}
+
+.content-level3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
